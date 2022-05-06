@@ -1,0 +1,15 @@
+.Intro
+{font-family: "Noto Sans Tibetan";
+    color: white;
+    text-align: left;
+    background-color: mediumpurple;
+    padding: 15px;
+    margin: -10px;}
+.Contact
+{font-family: "monospace";
+color: white;
+text-align: center;
+background-color: black;
+padding: 10px;
+margin: -10px;
+font-size: 25px}
